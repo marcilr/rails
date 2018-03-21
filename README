@@ -5,6 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+container/
+  Files for docker container
+
 links.txt
   Ruby on Rails under Docker test project related links
 
