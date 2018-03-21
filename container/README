@@ -15,6 +15,9 @@ docker-compose.yml
   pre-made PostgreSQL image, and the web app is built from the current
   directory), and the configuration needed to link them together and
   expose the web app’s port."
+
+  Tip: You can use either a .yml or .yaml extension for this file.
+
   --Quickstart: Compose and Rails
     https://docs.docker.com/compose/rails/
 
