@@ -1,0 +1,16 @@
+links.txt
+Created Wed Mar 21 13:58:32 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby on Rails under Docker test project related links
+
+
+Links
+=====
+Best practices for writing Dockerfiles
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
+Quickstart: Compose and Rails   <===
+https://docs.docker.com/compose/rails/
+
