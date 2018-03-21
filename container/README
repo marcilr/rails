@@ -7,3 +7,10 @@ Filelist
 ========
 Dockerfile
   Defines exactly what needs to be in the container
+
+Gemfile
+  Bootstrap Gemfile which just loads Rails.
+  It will be overwritten by 'rails new'.
+  Contains:
+    source 'https://rubygems.org'
+    gem 'rails', '5.0.0.1'
