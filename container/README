@@ -8,6 +8,16 @@ Filelist
 Dockerfile
   Defines exactly what needs to be in the container
 
+docker-compose.yml
+  "...docker-compose.yml is where the magic happens.  This file describes
+  the services that comprise your app (a database and a web app),
+  how to get each one’s Docker image (the database just runs on a
+  pre-made PostgreSQL image, and the web app is built from the current
+  directory), and the configuration needed to link them together and
+  expose the web app’s port."
+  --Quickstart: Compose and Rails
+    https://docs.docker.com/compose/rails/
+
 Gemfile
   Bootstrap Gemfile which just loads Rails.
   It will be overwritten by 'rails new'.
