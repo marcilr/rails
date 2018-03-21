@@ -14,3 +14,9 @@ Gemfile
   Contains:
     source 'https://rubygems.org'
     gem 'rails', '5.0.0.1'
+
+Gemfile.lock
+  Empty Gemfile.lock to build our Dockerfile.
+  Created with:
+    touch Gemfile.lock
+	
