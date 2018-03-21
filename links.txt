@@ -12,5 +12,7 @@ Best practices for writing Dockerfiles
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 Quickstart: Compose and Rails            <===
+Pulled resources and instructions
+from this page
 https://docs.docker.com/compose/rails/
 
