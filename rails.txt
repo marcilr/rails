@@ -1,0 +1,6 @@
+rails.txt
+Created Wed Mar 21 13:55:55 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby on Rails under Docker test project
