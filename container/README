@@ -1,0 +1,9 @@
+README
+Created Wed Mar 21 14:09:00 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+Dockerfile
+  Defines exactly what needs to be in the container
