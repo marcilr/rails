@@ -33,3 +33,10 @@ Gemfile.lock
   Created with:
     touch Gemfile.lock
 	
+
+Links
+=====
+Quickstart: Compose and Rails
+Details for 4 needed files and
+example project from this page
+https://docs.docker.com/compose/rails/
