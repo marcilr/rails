@@ -1,0 +1,26 @@
+INSTALL
+Created Sun Mar 25 13:34:42 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of rails
+
+
+1. To install Rails, use the gem install command provided by RubyGems:[1]
+$ gem install rails
+
+$ type rails
+rails is hashed (/usr/local/bin/rails)
+$
+
+$ rails --version
+Rails 5.1.4
+$
+
+Looks good!
+
+
+Links
+=====
+[1] Getting Started with Rails
+http://guides.rubyonrails.org/getting_started.html
