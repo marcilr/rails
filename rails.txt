@@ -11,7 +11,14 @@ needed to create database-backed web applications
 according to the Model-View-Controller (MVC) pattern.
 
 
+Command line options[1]
+$ rails new -h
+
+
 Links
 =====
+[1] Getting Started with Rails
+http://guides.rubyonrails.org/getting_started.html
+
 Ruby on Rails
 http://rubyonrails.org/
