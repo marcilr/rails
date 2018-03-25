@@ -16,3 +16,5 @@ links.txt
 rails.txt
   Ruby on Rails under Docker test project
 
+syntax/
+  Syntax
