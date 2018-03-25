@@ -16,6 +16,9 @@ container/
 docs/
   Documentation for Rails
 
+examples/
+  Examples
+
 links.txt
   Ruby on Rails under Docker test project related links
 
