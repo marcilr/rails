@@ -1,9 +1,9 @@
 INSTALL
-Created Sun Mar 25 13:34:42 AKDT 2018
+Created Fri Mar 23 10:43:25 AKDT 2018
 Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Installation of rails
+Installation of Ruby on Rails
 
 
 1. To install Rails, use the gem install command provided by RubyGems:[1]
@@ -23,4 +23,5 @@ Looks good!
 Links
 =====
 [1] Getting Started with Rails
+This guide covers getting up and running with Ruby on Rails.
 http://guides.rubyonrails.org/getting_started.html
