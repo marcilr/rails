@@ -13,6 +13,9 @@ container/
   see: Quickstart: Compose and Rails
        https://docs.docker.com/compose/rails/
 
+docs/
+  Documentation for Rails
+
 links.txt
   Ruby on Rails under Docker test project related links
 
