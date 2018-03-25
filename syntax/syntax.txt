@@ -4,3 +4,14 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Syntax
+
+
+Command line options[1]
+$ rails new -h
+
+
+Links
+=====
+Getting Started with Rails
+This guide covers getting up and running with Ruby on Rails.
+http://guides.rubyonrails.org/getting_started.html
