@@ -20,12 +20,21 @@ Dockerizing a Ruby on Rails Application
 https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
 
 Getting Started with Rails
+Greate example here with form that I need to complete.
 http://guides.rubyonrails.org/getting_started.html#hello-rails-bang
 
-Quickstart: Compose and Rails            <===
+Quickstart: Compose and Rails                                  <===
 Pulled resources and instructions
 from this page
 https://docs.docker.com/compose/rails/
+
+Rails                                                          <===
+Imagine what you could build if you learned Ruby on Rails...
+Learning to build a modern web application is daunting.
+Ruby on Rails makes it much easier and more fun.  It includes
+everything you need to build fantastic applications, and you
+can learn it with the support of our large, friendly community.
+http://rubyonrails.org/
 
 Rails on Docker
 Josh Clayton  February 19, 2015 UPDATED ON March 30, 2016
