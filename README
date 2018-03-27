@@ -19,6 +19,9 @@ docs/
 examples/
   Examples
 
+index.html
+  Ruby on Rails base page
+
 links.txt
   Ruby on Rails
   A web-application framework that includes everything
