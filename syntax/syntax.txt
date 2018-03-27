@@ -10,6 +10,13 @@ Command line options[1]
 $ rails new -h
 
 
+Command       Description
+---------------------------------------------------------------------
+rails new     Create a new Rails application. "rails new my_app" creates a
+              new application called MyApp in "./my_app"
+
+
+
 Links
 =====
 Getting Started with Rails
