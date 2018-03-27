@@ -23,6 +23,9 @@ Getting Started with Rails
 Greate example here with form that I need to complete.
 http://guides.rubyonrails.org/getting_started.html#hello-rails-bang
 
+How to Install Ruby on Rails on Debian 9 Stretch Linux
+https://linuxconfig.org/how-to-install-ruby-on-rails-on-debian-9-stretch-linux
+
 Quickstart: Compose and Rails                                  <===
 Pulled resources and instructions
 from this page
@@ -42,3 +45,15 @@ https://robots.thoughtbot.com/rails-on-docker
 
 Ruby on Rails
 http://rubyonrails.org/
+
+Ruby on Rails Guides (v5.1.4)          <===
+http://guides.rubyonrails.org/
+
+Ruby on Rails Tutorial (Rails 5)       <===
+Chapter 1
+From Zero to Deploy
+This is the tutorial that
+Hanh originally wanted me to look at.
+
+Ruby on Rails tutorial                 <=== the video
+http://railsforzombies.org/levels/1
