@@ -5,6 +5,11 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+new.txt
+  rails new
+  Create a new Rails application. "rails new my_app" creates a
+  new application called MyApp in "./my_app"
+
 syntax.txt
   syntax
 
