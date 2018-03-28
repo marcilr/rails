@@ -10,3 +10,12 @@ DRY - Don’t Repeat Yourself is a principle of Software Development to
   reducing repetition of information or code
   --Don’t Repeat Yourself (DRY) in Ruby on Rails
     https://gist.github.com/harssh-sparkway/8707634
+
+MVC - Model–view–controller (MVC) is an architectural pattern commonly
+  used for developing user interfaces that divides an application into
+  three interconnected parts.  This is done to separate internal
+  representations of information from the ways information is presented
+  to and accepted from the user.  The MVC design pattern decouples these
+  major components allowing for efficient code reuse and parallel
+  development.
+  --https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
