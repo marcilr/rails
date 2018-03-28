@@ -6,26 +6,63 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Installation of Ruby on Rails
 
 
-1. Install ruby and ruby-dev dependencies:
+1. Install ruby:
 
 # aptitude install ruby
-# aptitude install ruby-dev
-$ ruby -v
+The following NEW packages will be installed:
+  libruby2.3{a} rake{a} ruby ruby-did-you-mean{a} ruby-minitest{a}
+  ruby-net-telnet{a} ruby-power-assert{a} ruby-test-unit{a} ruby2.3{a}
+  rubygems-integration{a} 
+0 packages upgraded, 10 newly installed, 0 to remove and 3 not upgraded.
+Need to get 3,513 kB of archives. After unpacking 15.1 MB will be used.
+Do you want to continue? [Y/n/?] Y
+...
+Unpacking rake (10.5.0-2) ...
+Setting up ruby-did-you-mean (1.0.0-2) ...
+Processing triggers for libc-bin (2.24-11+deb9u3) ...
+Setting up ruby-net-telnet (0.1.1-2) ...
+Setting up rubygems-integration (1.11) ...
+Processing triggers for man-db (2.7.6.1-2) ...
+Setting up ruby-minitest (5.9.0-1) ...
+Setting up ruby-power-assert (0.3.0-1) ...
+Setting up ruby-test-unit (3.1.7-2) ...
+Setting up rake (10.5.0-2) ...
+Setting up libruby2.3:amd64 (2.3.3-1+deb9u2) ...
+Setting up ruby2.3 (2.3.3-1+deb9u2) ...
+Setting up ruby (1:2.3.3) ...
+Processing triggers for libc-bin (2.24-11+deb9u3) ...
+#
+
+This installed 10 packages:
+  libruby2.3:amd64         2.3.3-1+deb9u2 
+  rake                     10.5.0-2 
+  ruby                     1:2.3.3
+  ruby-did-you-mean        1.0.0-2
+  ruby-minitest            5.9.0-1
+  ruby-net-telnet          0.1.1-2 
+  ruby-power-assert        0.3.0-1
+  ruby-test-unit           3.1.7-2
+  ruby2.3                  2.3.3-1+deb9u2
+  rubygems-integration     1.11
+
+$ ruby --version
 ruby 2.3.3p222 (2016-11-21) [x86_64-linux-gnu]
-$
+#
 
-NOTE: ruby-dev required by rails:
-      $ gem install rails
-      Building native extensions.  This could take a while...
-      ERROR:  Error installing rails:
-              ERROR: Failed to build gem native extension.
+2. Install ruby-dev required by rails:
+# aptitude install ruby-dev
 
-          current directory: /var/lib/gems/2.3.0/gems/nokogiri-1.8.2/ext/nokogiri
-      /usr/bin/ruby2.3 -r ./siteconf20180131-835-re5ril.rb extconf.rb
-      mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+NOTE: ruby-dev is required by rails:
+  $ gem install rails
+  Building native extensions.  This could take a while...
+  ERROR:  Error installing rails:
+          ERROR: Failed to build gem native extension.
 
+      current directory: /var/lib/gems/2.3.0/gems/nokogiri-1.8.2/ext/nokogiri
+  /usr/bin/ruby2.3 -r ./siteconf20180131-835-re5ril.rb extconf.rb
+  mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
 
-2. To install Rails, use the gem install command provided by RubyGems
+3. To install Rails, use the gem install command provided by RubyGems
 $ gem install rails
 
 $ type rails
@@ -52,8 +89,37 @@ $ sqlite3 --version
 $
 
 
+Informing RubyGems of Debian Packages[1]
+=====================================
+In the default installation, RubyGems is not aware of any gems which have
+been installed through the Debian package managers.  Although this doesn’t
+cause any serious problems, since the installation locations are different,
+it may result in duplicate copies of gems being installed, causing
+confusion and wasting space and bandwidth.  The solution to this problem is
+very simple, ensure that RubyGems is installed from a Debian package
+(either the rubygems[2] package for Ruby 1.8 or by using the Debian package
+for Ruby 1.9, which includes RubyGems), then install the
+rubygems-integration[3] package through a Debian package manager
+(e.g. apt-get install rubygems-integration).
+
+Once this is done, RubyGems will use already-installed Debian package gems
+to satisfy dependencies and won’t install a second copy of such gems.  Note
+however that this will not, as far as I am aware, cause gem to install a
+Debian package to satisfy a dependency if one is available.  The user must
+first install the Debian package, if one is available, for it to be used.
+
+
 Links
 =====
+[1] Informing RubyGems of Debian Packages
+https://kevinlocke.name/bits/2012/12/06/debian-ruby-gems/
+
+[2] rubygems
+https://packages.debian.org/wheezy/rubygems
+
+[3] rubygems-integration
+https://packages.debian.org/wheezy/rubygems-integration
+
 About SQLite
 https://www.sqlite.org/about.html
 
