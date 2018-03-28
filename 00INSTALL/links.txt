@@ -1,0 +1,14 @@
+links.txt
+Created Wed Mar 28 10:18:37 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of Rails related links
+
+
+Links
+=====
+How to Install Ruby on Rails on Debian 9 Stretch Linux
+https://linuxconfig.org/how-to-install-ruby-on-rails-on-debian-9-stretch-linux
+
+
