@@ -4,7 +4,7 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Installation of Rails
-
+on Debian stretch 9.4 amd64
 
 1. Install ruby:
 
@@ -51,6 +51,26 @@ ruby 2.3.3p222 (2016-11-21) [x86_64-linux-gnu]
 
 2. Install ruby-dev required by rails:
 # aptitude install ruby-dev
+The following NEW packages will be installed:
+  libgmp-dev{a} libgmpxx4ldbl{a} ruby-dev ruby2.3-dev{a} 
+0 packages upgraded, 4 newly installed, 0 to remove and 3 not upgraded.
+Need to get 1,842 kB of archives. After unpacking 6,929 kB will be used.
+Do you want to continue? [Y/n/?] Y
+Get: 1 http://ftp.us.debian.org/debian stable/main amd64 libgmpxx4ldbl amd64 2:6.1.2+dfsg-1 [22.2 kB]
+Get: 2 http://ftp.us.debian.org/debian stable/main amd64 libgmp-dev amd64 2:6.1.2+dfsg-1 [631 kB]
+Get: 3 http://ftp.us.debian.org/debian stable/main amd64 ruby2.3-dev amd64 2.3.3-1+deb9u2 [1,179 kB]
+Get: 4 http://ftp.us.debian.org/debian stable/main amd64 ruby-dev amd64 1:2.3.3 [9,574 B]
+Fetched 1,842 kB in 2s (682 kB/s)
+...
+Unpacking ruby-dev:amd64 (1:2.3.3) ...
+Processing triggers for libc-bin (2.24-11+deb9u3) ...
+Setting up libgmpxx4ldbl:amd64 (2:6.1.2+dfsg-1) ...
+Setting up libgmp-dev:amd64 (2:6.1.2+dfsg-1) ...
+Setting up ruby2.3-dev:amd64 (2.3.3-1+deb9u2) ...
+Setting up ruby-dev:amd64 (1:2.3.3) ...
+Processing triggers for libc-bin (2.24-11+deb9u3) ...
+
+#
 
 NOTE: ruby-dev is required by rails:
   $ gem install rails
@@ -61,6 +81,22 @@ NOTE: ruby-dev is required by rails:
       current directory: /var/lib/gems/2.3.0/gems/nokogiri-1.8.2/ext/nokogiri
   /usr/bin/ruby2.3 -r ./siteconf20180131-835-re5ril.rb extconf.rb
   mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+For ruby and ruby-dev packages now includes:
+  $ dpkg -l | grep ruby
+  libruby2.3:amd64        2.3.3-1+deb9u2
+  rake                    10.5.0-2
+  ruby                    1:2.3.
+  ruby-dev:amd64          1:2.3.3 
+  ruby-did-you-mean       1.0.0-2 
+  ruby-minitest           5.9.0-1 
+  ruby-net-telnet         0.1.1-2 
+  ruby-power-assert       0.3.0-1
+  ruby-test-unit          3.1.7-2
+  ruby2.3                 2.3.3-1+deb9u2
+  ruby2.3-dev:amd64       2.3.3-1+deb9u2
+  rubygems-integration    1.11
+  $
 
 3. To install Rails, use the gem install command provided by RubyGems
 $ gem install rails
@@ -80,7 +116,7 @@ $
 Looks good!
 
 
-3. Install sqlite3 SQL database engine:
+4. Install sqlite3 SQL database engine:
 # aptitude install sqlite3
 # aptitude install sqlite3-doc
 
