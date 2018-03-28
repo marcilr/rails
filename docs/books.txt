@@ -1,0 +1,18 @@
+books.txt
+Created Tue Mar 27 17:15:00 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Links
+=====
+The Rails 5 Way (4th Edition) (Addison-Wesley Professional Ruby Series)
+by Obie Fernandez (Author)
+4th Edition
+The “Bible” for Rails Development: Fully Updated for Rails 5 
+price: $31.19 (amazon - March 27, 2018)
+Purchased on akusa March 27, 2018
+https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=obiefernandez-20&linkId=5afcff9a3922096da60b0d03402052d5
+
+Ruby on Rails 5.1.5
+Greate searching here, like 'form_for'
+http://api.rubyonrails.org/
