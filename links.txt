@@ -8,23 +8,9 @@ Ruby on Rails under Docker test project related links
 
 Links
 =====
-Best practices for writing Dockerfiles
-https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
-
-Dockerizing Ruby Application
-08 June 2016
-Fair amount of detail on ruby base images
-http://blog.kontena.io/dockerizing-ruby-application/
-
-Dockerizing a Ruby on Rails Application
-https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
-
 Getting Started with Rails
 Greate example here with form that I need to complete.
 http://guides.rubyonrails.org/getting_started.html#hello-rails-bang
-
-How to Install Ruby on Rails on Debian 9 Stretch Linux
-https://linuxconfig.org/how-to-install-ruby-on-rails-on-debian-9-stretch-linux
 
 Quickstart: Compose and Rails                                  <===
 Pulled resources and instructions
