@@ -115,8 +115,13 @@ $
 
 Looks good!
 
+4. Keep rails up to date:
+$ gem update rails
+Updating installed gems
+Nothing to update
+$
 
-4. Install sqlite3 SQL database engine:
+5. Install sqlite3 SQL database engine:
 # aptitude install sqlite3
 # aptitude install sqlite3-doc
 
