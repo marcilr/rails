@@ -10,7 +10,7 @@ Links
 =====
 Getting Started with Rails
 Greate example here with form that I need to complete.
-http://guides.rubyonrails.org/getting_started.html#hello-rails-bang
+http://guides.rubyonrails.org/getting_started.html
 
 Quickstart: Compose and Rails                                  <===
 Pulled resources and instructions
