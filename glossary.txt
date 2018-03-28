@@ -1,0 +1,12 @@
+glossary.txt
+Created Wed Mar 28 08:55:51 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+
+
+DRY - Don’t Repeat Yourself is a principle of Software Development to
+  reducing repetition of information or code
+  --Don’t Repeat Yourself (DRY) in Ruby on Rails
+    https://gist.github.com/harssh-sparkway/8707634
