@@ -11,4 +11,6 @@ Links
 How to Install Ruby on Rails on Debian 9 Stretch Linux
 https://linuxconfig.org/how-to-install-ruby-on-rails-on-debian-9-stretch-linux
 
-
+Ruby on Rails - Installation
+Good series of installation steps
+https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm
