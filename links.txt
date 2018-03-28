@@ -49,6 +49,10 @@ http://rubyonrails.org/
 Ruby on Rails Guides (v5.1.4)          <===
 http://guides.rubyonrails.org/
 
+Ruby on Rails - Installation
+Looks like thorough tutorial
+https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm
+
 Ruby on Rails Tutorial (Rails 5)       <===
 Chapter 1
 From Zero to Deploy
