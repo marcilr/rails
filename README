@@ -19,6 +19,9 @@ docs/
 examples/
   Examples
 
+forms/
+  Creating and processing html forms
+
 index.html
   Ruby on Rails base page
 
