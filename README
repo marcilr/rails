@@ -12,7 +12,6 @@ container/
   Files for docker container
   see: Quickstart: Compose and Rails
        https://docs.docker.com/compose/rails/
-
 docs/
   Documentation for Rails
 
@@ -21,6 +20,9 @@ examples/
 
 forms/
   Creating and processing html forms
+
+glossary.txt
+  Glossary for rails
 
 index.html
   Ruby on Rails base page
