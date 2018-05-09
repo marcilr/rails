@@ -8,6 +8,17 @@ Integration of rails with docker related links
 
 Links
 =====
+Dockerizing a Ruby on Rails Application
+Useful syntax on generating a rails application
+by Nick Janetakis Jan 13, 2016 Updated on Apr 16, 2018
+https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
+
+Running a Rails Development Environment in Docker
+Last updated: 2018-02-27
+by Marko Locher
+Quick notes on dockerizing a rails application
+https://blog.codeship.com/running-rails-development-environment-docker/
+
 Quickstart: Compose and Rails
 This Quickstart guide shows you how to use Docker Compose
 to set up and run a Rails/PostgreSQL app. 
