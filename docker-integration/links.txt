@@ -9,5 +9,7 @@ Integration of rails with docker related links
 Links
 =====
 Quickstart: Compose and Rails
+This Quickstart guide shows you how to use Docker Compose
+to set up and run a Rails/PostgreSQL app. 
 https://docs.docker.com/compose/rails/
 
