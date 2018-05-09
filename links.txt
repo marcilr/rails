@@ -48,3 +48,9 @@ Hanh originally wanted me to look at.
 
 Ruby on Rails tutorial                 <=== the video
 http://railsforzombies.org/levels/1
+
+Running a Rails Development Environment in Docker
+Last updated: 2018-02-27
+by Marko Locher
+https://blog.codeship.com/running-rails-development-environment-docker/
+
