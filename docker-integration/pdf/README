@@ -6,6 +6,29 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+Codeship_Automate_your_Development_Workflow_with_Docker.pdf
+  Automate your Development
+  Workflow with Docker
+  by Matthias Sieber
+  Learn how to use Docker to nullify the issue of
+  inconsistent environment setups.
+  Get rid of inconsistent environments
+  thanks to the power of Docker.
+  Inconsistent environments come with not-so-small risks.
+  In this eBook we will learn how to use Docker to solve
+  the problems of inconsistent environments on varying
+  deployment targets. "But it worked on my machine"
+  will then be replaced by a reassuring "it runs in Docker."
+  Here is what you will learn in this book:
+  o Why consistent environments are so important.
+  o How a company lost $400 million in 45 minutes due to inconsistent environments.
+  o How to build an app to run inside an isolated Docker Container.
+  o Download our free Ebook
+  Pages: 17
+  Downloaded: Wed May 9, 2018
+  Referenced in:
+    Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
+
 Codeship_Minimal_Docker_Images-1.pdf
   Best Practices for
   Building Minimal
@@ -71,4 +94,23 @@ Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf
   Pages: 14
   Downloaded: Wed May 9, 2018
   https://resources.codeship.com/ebooks/continuous-integration-continuous-delivery-with-docker?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=dockerizing-ruby-apps
+
+  Efficiency in Development
+  Workflows.
+  Learn about Software Development for distributed
+  teams and how to make them code efficiently.
+  Pages: ???
+  Downloaded: Wed May 9, 2018
+  Referenced in:
+    Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
+
+
+  Orchestrate Containers with
+  Docker Compose.
+  Learn how to use Docker Compose. We focus on
+  how to orchestrate containers in development.
+  Pages: ???
+  Downloaded: Wed May 9, 2018
+  Referenced in:
+    Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
 
