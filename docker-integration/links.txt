@@ -1,0 +1,13 @@
+links.txt
+Created Wed May  9 13:35:51 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Integration of rails with docker related links
+
+
+Links
+=====
+Quickstart: Compose and Rails
+https://docs.docker.com/compose/rails/
+
