@@ -12,6 +12,10 @@ container/
   Files for docker container
   see: Quickstart: Compose and Rails
        https://docs.docker.com/compose/rails/
+
+docker-integration/
+  Integration of docker and rails
+
 docs/
   Documentation for Rails
 
