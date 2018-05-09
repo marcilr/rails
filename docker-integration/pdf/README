@@ -95,22 +95,47 @@ Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf
   Downloaded: Wed May 9, 2018
   https://resources.codeship.com/ebooks/continuous-integration-continuous-delivery-with-docker?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=dockerizing-ruby-apps
 
+Codeship_Efficiency_in_Development_Workflows.pdf
   Efficiency in Development
   Workflows.
+  by Manuel Weiss, Cofounder of Codeship
   Learn about Software Development for distributed
   teams and how to make them code efficiently.
-  Pages: ???
+  Development Workflow Best Practices
+  from industry leaders.
+  Read about the findings the Codeship team made after
+  interviewing thousands of developers all over the
+  world and working several years on the problems a
+  development team faces each and every day.
+  Here is what you will learn in this book:
+  o How to create new features in a distributed team
+  o How to manage pull requests and code reviews
+  o What are Deployment Pipelines and how to achieve Zero Downtime Deployment
+  Contains:
+  o Git branching model, p. 5
+  Pages: 21
   Downloaded: Wed May 9, 2018
   Referenced in:
     Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
 
-
+Codeship_Orchestrate_Containers_for_Development_with_Docker_Compose.pdf
   Orchestrate Containers with
   Docker Compose.
-  Learn how to use Docker Compose. We focus on
-  how to orchestrate containers in development.
-  Pages: ???
+  by Lukasz Guminski
+  A detailed breakdown of Docker Compose
+  with a focus on orchestrating containers.
+  Containerization changes not only the architecture of services,
+  but also the structure of environments used to create them.
+  In this eBook you will learn how to easily recreate a
+  microservice architecture on your development machine
+  with Docker Compose.
+  Here is what you will learn in this book:
+  o Docker Compose, its functionality and its main commands.
+  o How to set up a Docker Compose workflow.
+  o How to reproduce a complex build & test environment easily.
+  Contains:
+  o Great docker-compose details
+  Pages: 19
   Downloaded: Wed May 9, 2018
   Referenced in:
     Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
-
