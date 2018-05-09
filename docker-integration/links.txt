@@ -13,3 +13,6 @@ This Quickstart guide shows you how to use Docker Compose
 to set up and run a Rails/PostgreSQL app. 
 https://docs.docker.com/compose/rails/
 
+Ruby
+Just ruby here, not rails.
+https://docs.docker.com/samples/library/ruby/
