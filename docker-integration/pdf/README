@@ -6,6 +6,35 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+Codeship_Minimal_Docker_Images-1.pdf
+  Best Practices for
+  Building Minimal
+  Docker Images
+  by Ethan Jones Support Engineer at Codeship
+  In this eBook we will look at some ways to streamline
+  your Docker image as small as possible.
+  Keeping your images lightweight has a lot of practical benefits.
+  In this eBook we will look at of the some ways to streamline
+  your Docker image as small as possible.
+  Here is what you will learn in this book:
+  o The benefits of streamlining your images as lightweight as possible
+  o How to choose the right image for the right service
+  o How to optimize dockerignore
+  o Whether to build assets into an image or to prepare them at runtime
+  Contains:
+  o There are a few tools to inspect the composition of
+    your Docker images to see which layers might be
+    contributing to bloat. Try looking at your image's layers
+    on MicroBadger.
+    --https://microbadger.com/#/
+    p. 4
+  Referenced in:
+    Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf, p. 13
+  Pages: 11
+  Solid optimizatrion details in this document.
+  Downloaded: Wed May 9, 2018
+  https://resources.codeship.com/ebooks/minimal-docker-images?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=dockerizing-ruby-apps
+
 Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf
   Dockerizing Ruby Apps and Effectively Testing them
   by Taylor Jones, codeship.com
@@ -16,7 +45,8 @@ Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf
   o How to effectively test Docker applications
   o How to formulate your Docker setup
   o How to run commands against a Docker container
-  pages: 14
+  Pages: 14
+  Downloaded: Wed May 9, 2018
   Some very good details in this book.
   https://blog.codeship.com/running-rails-development-environment-docker/
   https://resources.codeship.com/ebooks/dockerizing-ruby-apps-testing?utm_referrer=https%3A%2F%2Fblog.codeship.com%2Frunning-rails-development-environment-docker%2F
