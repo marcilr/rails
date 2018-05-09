@@ -177,3 +177,42 @@ Codeship_Orchestrate_Containers_for_Development_with_Docker_Compose.pdf
   Downloaded: Wed May 9, 2018
   Referenced in:
     Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf, p. 13
+
+
+Codeship_Why_Containers_and_Docker_are_the_Future.pdf
+  by Manuel Weiss cofounder of codeship
+  Why Containers and Docker are
+  the Future.
+  Learn about the rise of the Container Stack and why
+  Docker and its ecosystem play such a big part in it.
+  What is the Container Stack
+  and why is it so powerful?
+  In this eBook we will have a look at the Traditional Stack,
+  the Virtual Machine Stack and the Container Stack.  We will
+  look at the advantages and disadvantages of each of these
+  stacks and learn why the Container Stack "is the future",
+  as so many people have proclaimed.
+  Here is what you will learn in this book:
+  o What are the differences between the Traditional,
+    Virtual Machine, and Container Stack?
+  o Why are containers and the container ecosystem such a big deal?
+  o How did Docker and its community help standardize the Container Workflow?
+  Pages: 21
+  Downloaded: Wed May 9, 2018
+  Referenced in:
+    Codeship_Efficiency_in_Development_Workflows.pdf, p. 20
+
+
+Links
+=====
+Continuous Delivery will help you create a better product faster.
+Learn how Continuous Delivery, and the workflow that goes along
+with it, will help you and your software teams create a better
+product for your users faster and why shipping is your company's
+heartbeat and a major business advantage.
+Here is what you will learn in this course:
+o Why should I adopt a Continuous Delivery process and what are its advantages?
+o What is Continuous Integration and what is Continuous Deployment?
+o What are the advantages of hosted Continuous Delivery systems?
+Has send me part 1 right now link
+https://resources.codeship.com/email-courses/continuous-delivery-crash-course?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=efficiencyindevelopmentworkflows
