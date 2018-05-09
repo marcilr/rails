@@ -42,8 +42,6 @@ How Continuous Delivery makes you more productive   <=== email course
     its advantages?
   o What is Continuous Integration and what is Continuous Deployment?
   o What are the advantages of hosted Continuous Delivery systems?
-  Pages: ???
-  Downloaded: Wed May 9, 2018
   Referenced in:
     Codeship_Efficiency_in_Development_Workflows.pdf, p. 20
   Learn by email course:
@@ -69,6 +67,26 @@ Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf
   Pages: 14
   Downloaded: Wed May 9, 2018
   https://resources.codeship.com/ebooks/continuous-integration-continuous-delivery-with-docker?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=dockerizing-ruby-apps
+  
+Continuous-Integration-Essentials.pdf
+  Continuous Integration
+  Essentials Guide.
+  How CI ties in with Continuous Deployment and
+  Continuous Delivery and how to get started with it.
+  Continuous Integration is the first step to an
+  efficient development workflow.
+  Learn all about the business and development benefits
+  of Continuous Integration, about industry best-practices
+  and how to achieve Continuous Integration with your team.
+  Here is what you will learn in this course:
+  o What is Continuous Integration and how does it help my software team?
+  o How do I choose a Continuous Integration solution for my team?
+  o What's the difference between Continuous Integration,
+    Continuous Deployment & Continuous Delivery?
+  Printed to pdf: Wed May 9, 2018
+  Referenced in:
+    Codeship_Efficiency_in_Development_Workflows.pdf, p. 20
+  https://codeship.com/continuous-integration-essentials?submissionGuid=e6fe3d4a-dec6-411b-9f4e-886ae0a3c016
 
 Codeship_Efficiency_in_Development_Workflows.pdf
   Efficiency in Development
