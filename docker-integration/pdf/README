@@ -50,3 +50,25 @@ Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf
   Some very good details in this book.
   https://blog.codeship.com/running-rails-development-environment-docker/
   https://resources.codeship.com/ebooks/dockerizing-ruby-apps-testing?utm_referrer=https%3A%2F%2Fblog.codeship.com%2Frunning-rails-development-environment-docker%2F
+
+Codeship_Continuous_Integration_and_Continuous_Delivery_with_Docker.pdf
+  Continuous Integration
+  and Continuous Delivery
+  with Docker
+  by Jaroslav Holub
+  Set up a Continuous Delivery Pipeline
+  with Docker and containers.
+  Continuous Delivery is all about reducing risk and delivering
+  value faster by producing reliable software in short iterations.
+  In this eBook we take a look at how to set up a Continuous
+  Delivery Pipeline with Docker and containers.
+  Here is what you will learn in this book:
+  o How containerization allows to improve the Continuous Delivery process.
+  o How to set up Continuous Integration and Delivery with Docker and containers.
+  o Going beyond CD with Docker by creating a matrix of deployments of microservices.
+  Referenced in:
+    Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf, p. 13
+  Pages: 14
+  Downloaded: Wed May 9, 2018
+  https://resources.codeship.com/ebooks/continuous-integration-continuous-delivery-with-docker?utm_source=CodeshipeBook&utm_medium=referral&utm_campaign=dockerizing-ruby-apps
+
