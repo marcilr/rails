@@ -1,0 +1,21 @@
+README
+Created Wed May  9 14:00:06 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Filelist
+========
+Codeship_Effectively_Testing_Dockerized_Ruby_Apps.pdf
+  Dockerizing Ruby Apps and Effectively Testing them
+  by Taylor Jones, codeship.com
+  Dockerizing Ruby Applications
+  In this eBook you will learn how to dockerize Ruby applications
+  and how to test them. We will take a look at Docker's powerful
+  features from the perspective of a Dockerized Ruby on Rails application.
+  Here is what you will learn in this book:
+  o How to effectively test Docker applications
+  o How to formulate your Docker setup
+  o How to run commands against a Docker container
+  https://blog.codeship.com/running-rails-development-environment-docker/
+  https://resources.codeship.com/ebooks/dockerizing-ruby-apps-testing?utm_referrer=https%3A%2F%2Fblog.codeship.com%2Frunning-rails-development-environment-docker%2F
