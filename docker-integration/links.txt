@@ -27,3 +27,8 @@ https://docs.docker.com/compose/rails/
 Ruby
 Just ruby here, not rails.
 https://docs.docker.com/samples/library/ruby/
+
+Testing Your Rails Application with Docker
+Last updated: 2017-06-16
+by Marko Locher
+https://blog.codeship.com/testing-rails-application-docker/
