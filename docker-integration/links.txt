@@ -13,7 +13,7 @@ Useful syntax on generating a rails application
 by Nick Janetakis Jan 13, 2016 Updated on Apr 16, 2018
 https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
 
-Running a Rails Development Environment in Docker
+Running a Rails Development Environment in Docker <===
 Last updated: 2018-02-27
 by Marko Locher
 Quick notes on dockerizing a rails application
