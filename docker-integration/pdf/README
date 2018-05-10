@@ -7,17 +7,14 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 Codeship_Automate_your_Development_Workflow_with_Docker.pdf
-  Automate your Development
-  Workflow with Docker
+  Automate your Development Workflow with Docker
   by Matthias Sieber
   Learn how to use Docker to nullify the issue of
   inconsistent environment setups.
-  Get rid of inconsistent environments
-  thanks to the power of Docker.
-  Inconsistent environments come with not-so-small risks.
-  In this eBook we will learn how to use Docker to solve
-  the problems of inconsistent environments on varying
-  deployment targets. "But it worked on my machine"
+  Get rid of inconsistent environments thanks to the power of Docker.
+  Inconsistent environments come with not-so-small risks.  In this eBook
+  we will learn how to use Docker to solve the problems of inconsistent
+  environments on varying deployment targets. "But it worked on my machine"
   will then be replaced by a reassuring "it runs in Docker."
   Here is what you will learn in this book:
   o Why consistent environments are so important.
