@@ -8,6 +8,10 @@ Ruby on Rails under Docker test project related links
 
 Links
 =====
+10 RoR Books You Must Have on Your Bookshelf
+Netguru - Jun 1, 2015
+https://www.netguru.co/blog/ruby-rails-books
+
 Getting Started with Rails
 Greate example here with form that I need to complete.
 Has blog application
