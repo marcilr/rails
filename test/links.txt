@@ -11,4 +11,10 @@ Links
 How We Test Rails Applications
 Josh Steiner - January 14, 2014
 UPDATED ON June 1, 2016
+Has link to their book Testing Rails
 https://robots.thoughtbot.com/how-we-test-rails-applications
+
+Testing Rails
+How export developers wite
+maintainable tests
+https://gumroad.com/l/testing-rails/
