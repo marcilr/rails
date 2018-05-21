@@ -17,4 +17,6 @@ https://robots.thoughtbot.com/how-we-test-rails-applications
 Testing Rails
 How export developers wite
 maintainable tests
+by Josh Steiner and Joël Quenneville
+price: $30 (May 21, 2018)
 https://gumroad.com/l/testing-rails/
