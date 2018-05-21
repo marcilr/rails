@@ -43,3 +43,6 @@ rails.txt
 
 syntax/
   Syntax
+
+test/
+  Testing rails applications
