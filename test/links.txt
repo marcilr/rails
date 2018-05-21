@@ -1,0 +1,14 @@
+links.txt
+Created Mon May 21 15:43:24 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Test related links
+
+
+Links
+=====
+How We Test Rails Applications
+Josh Steiner - January 14, 2014
+UPDATED ON June 1, 2016
+https://robots.thoughtbot.com/how-we-test-rails-applications
