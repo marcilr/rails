@@ -26,6 +26,9 @@ NOTE: Ebooks are DRM free
 The Pragmatic Bookshelf
 https://pragprog.com/book/ridocker/docker-for-rails-developers
 
+List of Free Programming Books   <=== Fine ruby books
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby
+
 Rails 5 Test Prescriptions
 Build a Healthy Codebase
 by Noel Rappin
