@@ -19,14 +19,27 @@ advanced JavaScript.
 price: $29.95 (ebook - May 21, 2018)
 https://pragprog.com/book/rails51/agile-web-development-with-rails-51
 
-The Rails 5 Way (4th Edition) (Addison-Wesley Professional Ruby Series)
-by Obie Fernandez (Author)
-4th Edition
-The “Bible” for Rails Development: Fully Updated for Rails 5 
-price: $31.19 (amazon - March 27, 2018)
-Purchased on akusa March 27, 2018
-https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=obiefernandez-20&linkId=5afcff9a3922096da60b0d03402052d5
+Docker for Rails Developers   <=== Looks pretty good
+Build, Ship, and Run Your Applications Everywhere
+by Rob Isenberg
+NOTE: Ebooks are DRM free
+The Pragmatic Bookshelf
+https://pragprog.com/book/ridocker/docker-for-rails-developers
+
+Rails 5 Test Prescriptions
+Build a Healthy Codebase
+by Noel Rappin
+https://pragprog.com/book/nrtest3/rails-5-test-prescriptions
 
 Ruby on Rails 5.1.5
 Greate searching here, like 'form_for'
 http://api.rubyonrails.org/
+
+The Rails 5 Way (4th Edition) (Addison-Wesley Professional Ruby Series)
+by Obie Fernandez (Author)
+4th Edition
+The “Bible” for Rails Development: Fully Updated for Rails 5
+price: $31.19 (amazon - March 27, 2018)
+Purchased on akusa March 27, 2018
+https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=obiefernandez-20&linkId=5afcff9a3922096da60b0d03402052d5
+
