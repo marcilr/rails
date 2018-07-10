@@ -66,3 +66,5 @@ Last updated: 2018-02-27
 by Marko Locher
 https://blog.codeship.com/running-rails-development-environment-docker/
 
+The API Documentation
+http://api.rubyonrails.org/
