@@ -12,6 +12,11 @@ Links
 Netguru - Jun 1, 2015
 https://www.netguru.co/blog/ruby-rails-books
 
+Dockerizing a Ruby on Rails Application
+Jan 13, 2016 Updated on Apr 16, 2018
+by Nick Janetakis
+https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
+
 Getting Started with Rails
 Greate example here with form that I need to complete.
 Has blog application
